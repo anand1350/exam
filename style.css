@@ -1,0 +1,43 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+}
+
+header {
+    position: flex;
+    justify-content: space-between;
+    width: 1512px;
+    height: 44px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.8);
+}
+
+nav{
+    margin-top: 17px;
+    align-items: center;
+    position: absolute;
+    display: flex;
+    gap: 42px;
+}
+
+.logoapple{
+    margin-left: 266.51px;
+}
+
+header nav a {
+    flex-direction: row;
+    color: #ffffff;
+      
+}
+
+/* sec1 */
+
+.section1{
+    align-items: center;
+}
+
+.sec1-1
+{
+    align-items: center;
+    
+}
